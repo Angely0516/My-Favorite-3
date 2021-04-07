@@ -1,0 +1,30 @@
+body {
+  text-align:center;
+  
+}
+h1 {
+  background-color:gray;
+  width:60%;
+}
+img{ 
+    width:300; 
+    height:300; 
+    border-radius:50%;
+}
+    .menu {
+    list-style: none; 
+    font-family:cursive; 
+    float:right; 
+    top:10px; 
+    right:30px; 
+    cursor: pointer; 
+    color:black; 
+    }
+    .link { 
+        color:crimson; 
+        display: inline; 
+        padding-top:5px; 
+        padding-left:9px; 
+        padding-right:9px; 
+        padding-bottom: 5px;
+    }
